@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tsbuildinfo
+public/tailwind.css
+.env*
+artifacts/
